@@ -1,9 +1,8 @@
 # Hi there 👋
 
-I'm **[Tu Nombre]**, a **[Tu rol / titulación] at [Tu universidad o empresa]**.
+I'm **Fernando Cachón Alonso**, a **computer science student at Oviedo´s University**.
 
-This is my **personal GitHub** where I showcase projects, experiments, and learning journeys.  
-For university-related repositories, check out my academic GitHub: [username_académico](https://github.com/username_académico).
+This is my **academic GitHub** where I showcase projects, experiments, and learning journeys.
 
 ---
 
@@ -11,7 +10,7 @@ For university-related repositories, check out my academic GitHub: [username_aca
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/tu_usuario)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/tu_usuario)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/fercalonso)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://tu-portfolio.dev)
 
 ---
@@ -22,13 +21,6 @@ For university-related repositories, check out my academic GitHub: [username_aca
 🔹 **[Proyecto o tecnología 2]** — breve descripción.  
 🔹 **Solving problems on LeetCode** to sharpen my algorithms & data structures skills.  
 🔹 **Exploring [área de interés]** — herramientas o conceptos que estás aprendiendo.
-
----
-
-## 🛠️ Featured Projects
-
-🔹 **[nombre-del-repo](https://github.com/tu-usuario/nombre-del-repo)** — Descripción breve del proyecto y tecnologías usadas.  
-🔹 **[otro-repo](https://github.com/tu-usuario/otro-repo)** — Descripción breve del proyecto.
 
 ---
 
@@ -52,7 +44,6 @@ For university-related repositories, check out my academic GitHub: [username_aca
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ### 🚀 Backend & Frameworks
 
@@ -65,7 +56,6 @@ For university-related repositories, check out my academic GitHub: [username_aca
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ### 🔧 DevOps & Tools
 
@@ -86,21 +76,13 @@ For university-related repositories, check out my academic GitHub: [username_aca
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=TU_USUARIO&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fercalonso&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fercalonso&theme=dark&hide_border=false)
 
 ---
 
 ## 🏆 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TU_USUARIO_LEETCODE?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fercalonso_LEETCODE?theme=dark)
 
 ---
-
-## 🔝 Top Contributed Repos
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=TU_USUARIO&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=TU_USUARIO&icon=0&color=0)
