@@ -69,9 +69,3 @@ This is my **academic GitHub** where I showcase projects, experiments, and learn
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fercalonso&theme=dark&hide_border=false)
 
 ---
-
-## 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/fercalonso_LEETCODE?theme=dark)
-
----
