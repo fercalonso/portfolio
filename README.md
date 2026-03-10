@@ -8,19 +8,8 @@ This is my **academic GitHub** where I showcase projects, experiments, and learn
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/tu_usuario)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-cachón-alonso-b8a6201a2/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF?style=flat&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/fercalonso)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://tu-portfolio.dev)
-
----
-
-## 🚀 What I'm Currently Working On
-
-🔹 **[Proyecto o tecnología 1]** — breve descripción de lo que estás haciendo.  
-🔹 **[Proyecto o tecnología 2]** — breve descripción.  
-🔹 **Solving problems on LeetCode** to sharpen my algorithms & data structures skills.  
-🔹 **Exploring [área de interés]** — herramientas o conceptos que estás aprendiendo.
 
 ---
 
